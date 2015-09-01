@@ -1,8 +1,7 @@
 {
   "name": "ec544_arduino_sketches",
   "version": "0.0.1",
-  "description": "Sketches for EC544 at Boston University",
-  "main": "index.js",
+  "description": "Demos for EC544 at Boston University",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

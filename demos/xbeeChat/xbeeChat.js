@@ -35,7 +35,7 @@ sp.on("open", function () {
   console.log('open');
   sp.on('data', function(data) {
     console.log('data received: ' + data);
-    io.emit("chat message", "Data received: " + data);
+    io.emit("chat message", "An XBee says: " + data);
   });
 });
 
